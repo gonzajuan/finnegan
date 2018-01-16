@@ -11,7 +11,7 @@ class ProblemSolver
     # UPDATE FROM GONZAJUAN AT 10:30PM
     # UPDATE FROM GONZAJUAN AT 10:30PM
   end
-  def solve_tough_problem
+  def solve_tough_problem (arg1) # 007 at 10:21am
     # this is a new change after forking the project.
     # this is a new change after forking the project.
     # this is a new change after forking the project.
