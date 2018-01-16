@@ -36,8 +36,6 @@ class ProblemSolver
 
     if answered
       # Add achievement point to global counter.
-      # UPDATE FROM GONZAJUAN AT 10:18PM
-      # UPDATE FROM GONZAJUAN AT 10:18PM
     end
   end
 end
