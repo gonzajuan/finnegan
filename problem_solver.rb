@@ -4,14 +4,14 @@ class ProblemSolver
 
     # UPDATE FROM GONZAJUAN AT 10:30PM
   end
-  def solve_harder_problem
+  def solve_harder_problem (arg1) # glez at 10:22
     # this is a new change after forking the project.
     # this is a new change after forking the project.
 
     # UPDATE FROM GONZAJUAN AT 10:30PM
     # UPDATE FROM GONZAJUAN AT 10:30PM
   end
-  def solve_tough_problem (arg1) # 007 at 10:21am
+  def solve_tough_problem (arg1, arg2, arg3, arg4) # glez at 10:48
     # this is a new change after forking the project.
     # this is a new change after forking the project.
     # this is a new change after forking the project.
